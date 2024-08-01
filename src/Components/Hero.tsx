@@ -10,7 +10,7 @@ const Hero = () => {
         src="/hero.png"
         width={1000}
         height={600}
-        alt="./hero_bg"
+        alt="hero_bg"
       />
       <Navbar />
       <div className="container h-[calc(100vh-120px)] grid items-center">
