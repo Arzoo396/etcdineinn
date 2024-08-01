@@ -15,6 +15,7 @@ const Hero = () => {
       <Navbar />
       <div className="container h-[calc(100vh-120px)] grid items-center">
         <div className="space-y-4 bg-[#ffffff98] w-fit p-4">
+          <p>Monsoon offer 10% Discount</p>
           <p className="uppercase font-medium">Experience ETC Dine Inn: Where Flavor Comes to Life</p>
           <h2 className="text-4xl sm:text-6xl font-bold">
             Delicious <span className="text-accent">Food</span>
